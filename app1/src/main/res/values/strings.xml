@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Guide</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Earning</string>
+    <string name="title_notifications">Notifications</string>
+
+
+        <string name="Name">Sanyog Jadhav</string>
+    <string name="Date">10-3-2024</string>
+    <string name="Earn">1000</string>
+        <string name="username_data">sanyogjadhav</string>
+        <string name="bio">About Guide</string>
+        <string name="profile">Profile</string>
+        <string name="about">About</string>
+        <string name="user_information">Guide Information</string>
+        <string name="username_">Guide Name</string>\
+    <string name="Education_data">B.com</string>
+
+
+    <string name="Education">Education</string>
+
+        <string name="Experience">Experience</string>
+        <string name="year">3 years</string>
+        <string name="Avail">Available Time</string>
+        <string name="_07_02_2003">12:00pm to 2:00 pm</string>
+
+        <string name="email">Email</string>
+
+
+
+</resources>

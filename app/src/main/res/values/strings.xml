@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">loginsignup</string>
+    <string name="title_activity_guide">GuideActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="compoverview">Computing jobs are among the highest paid today,Principal areas of study and careers within computer science include artificial intelligence, computer systems and networks, security, database systems, human-computer interaction, vision and graphics, numerical analysis, programming languages, software engineering, bioinformatics, and theory of computing.
+</string>
+    <string name="civiloverview">Civil engineering is an engineering branch that deals with the physical world and it is becoming increasingly essential due to the rapid growth in demand for improved infrastructures, efficient forms of structures and traveling, green initiatives, etc. Civil engineering includes designing, maintenance, analysis and development of the physical environment etc.</string>
+    <string name="elecoverview">Electrical engineering is now split into a variety of different fields such as computer engineering, electronics, instrumentation, optics, photonics, photovoltaics, power engineering, radio-frequency engineering, signal processing, systems engineering, and telecommunications. The different disciplines associated with electrical engineering may also overlap with other areas of engineering.</string>
+
+
+    <string name="mechoverview">Mechanical engineering is the study of physical machines that may involve force and movement. It is an engineering branch that combines engineering physics and mathematics principles with materials science, to design, analyze, manufacture, and maintain mechanical systems.[1] It is one of the oldest and broadest of the engineering branches.</string>
+    <string name="entcoverview">Electronics and telecommunications engineering is a modern engineering discipline that deals with designing, fabricating, producing, testing and supervising the manufacturing process of complex electronic products and systems. It is a diverse field that encompasses designing and developing traditional analogue technology and high-tech digital components</string>
+    <string name="medoverview">Biomedical engineering (BME) or medical engineering is the application of engineering principles and design concepts to medicine and biology for healthcare applications (e.g., diagnostic or therapeutic purposes). BME is also traditionally logical sciences to advance health care treatment, including diagnosis, monitoring, and therapy.</string>
+
+
+    <string name="Name">Sanyog Jadhav</string>
+    <string name="Date">10-3-2024</string>
+    <string name="Earn">1000</string>
+    <string name="username_data">sanyogjadhav</string>
+    <string name="bio">About Guide</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="user_information">Guide Information</string>
+    <string name="username_">Guide Name</string>\
+    <string name="Education_data">B.com</string>
+
+
+    <string name="Education">Education</string>
+
+    <string name="Experience">Experience</string>
+    <string name="Skills">Skills</string>
+    <string name="Extraactivity">Extra Activity</string>
+    <string name="Extraac">Drawing</string>
+    <string name="skillsenter">Android</string>
+    <string name="year">3 years</string>
+    <string name="Avail">Available Time</string>
+    <string name="_07_02_2003">12:00pm to 2:00 pm</string>
+
+    <string name="email">Email</string>
+
+    <string name="Timecomp">Available Time: 12:00pm to 2:00pm</string>
+    <string name="Datecomp">Date: 2 March 2024</string>
+    <string name="Feescomp">Fees: 80$</string>
+
+
+    <string name="Namecomp">Sanyog Jadhav</string>
+    <string name="Nameelec">Vedant Kale</string>
+    <string name="Nameentc">Chandu Kate</string>
+    <string name="Namemech">Kunal Khairnar</string>
+    <string name="Namecivil">Pranav Boithe</string>
+    <string name="Namemed">Shambhu Kale</string>
+
+
+    <string name="compexp">As a computer expert, I can share a variety of information related to computers, software, hardware, networking,
+        cybersecurity, and more</string>
+
+
+    <string name="civilexp">As a civil expert, I can offer valuable expertise and guidance on a wide range of topics related to civil engineering and construction.</string>
+
+    <string name="elecexp">As an electrical expert, I can provide a wealth of information on various aspects of electrical engineering and related fields. </string>
+
+    <string name="entcexp">As an Electronics and Telecommunication (E and Tc) expert, I can share a range of information related to electronic devices, communication systems, signal processing, and more.</string>
+
+    <string name="mechxp">As a mechanical expert, I can provide a wide range of information on topics related to mechanical engineering and technology.</string>
+
+    <string name="medexp">As a medical expert, I can provide information and insights on various aspects of medicine and healthcare. </string>
+
+
+    <string name="Timecivil">Available Time: 12:00pm to 2:00pm</string>
+    <string name="Timeentc">Available Time: 12:00pm to 2:00pm</string>
+    <string name="Timemech">Available Time: 12:00pm to 2:00pm</string>
+    <string name="Timemed">Available Time: 12:00pm to 2:00pm</string>
+    <string name="Timeelec">Available Time: 12:00pm to 2:00pm</string>
+
+    <string name="Datecivil">Date: 2 March 2024</string>
+    <string name="Dateentc">Date: 2 March 2024</string>
+    <string name="Datemech">Date: 2 March 2024</string>
+    <string name="Datemed">Date: 2 March 2024</string>
+    <string name="Dateelec">Date: 2 March 2024</string>
+
+
+    <string name="Feescivil">Fees: 80$</string>
+    <string name="Feesentc">Fees: 80$</string>
+    <string name="Feesmech">Fees: 80$</string>
+    <string name="Feesmed">Fees: 80$</string>
+    <string name="Feeselec">Fees: 80$</string>
+    <string name="hyperlink"><a href="https://meet.google.com/kxd-pwbk-yat">Tap here to join Meeting</a></string>
+
+</resources>
